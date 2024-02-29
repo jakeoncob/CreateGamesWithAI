@@ -1,0 +1,18 @@
+{
+  "name": "baseforgpt",
+  "version": "1.0.0",
+  "descrsiption": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "jsdom": "^24.0.0"
+  }
+}
